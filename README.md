@@ -31,7 +31,7 @@ To get the project running on your local machine, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/divyansh-2005/FoodStore_MERN.git
+   git clone https://github.com/DiwareNamrata23/FoodStore_MERN-main.git
    cd FOODSTORE_MERN
    ```
 
