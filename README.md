@@ -6,9 +6,6 @@ Food Store is a responsive web application that allows users to browse a variety
 # Demo
 [Link to demo video](https://drive.google.com/file/d/1xLYGNRmkYu3feHFxaW6ZSHlPigx_mFPu/view?usp=sharing)
 
-# Live link
-    https://food-store-mern.vercel.app 
-
 ## Features
 
 - **Home Page**: Displays all available food items which users can browse.
