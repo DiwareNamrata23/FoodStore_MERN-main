@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
